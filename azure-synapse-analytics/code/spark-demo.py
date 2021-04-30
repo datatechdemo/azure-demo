@@ -1,7 +1,7 @@
 ## Spark pool
 
 %%pyspark
-df = spark.read.load('abfss://users@datatechlake.dfs.core.windows.net/NYCTripSmall.parquet', format='parquet')
+df = spark.read.load('abfss://data@datatechstorage.dfs.core.windows.net/NYCTripSmall.parquet', format='parquet')
 df.printSchema()
 display(df.limit(10))
 

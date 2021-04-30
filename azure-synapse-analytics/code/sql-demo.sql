@@ -8,6 +8,7 @@ FROM
         FORMAT='PARQUET'
     ) AS [result]
 
+#Please don't forget to replace your storage and file system name in line 7
 
 ## Dedicated SQL pool
 

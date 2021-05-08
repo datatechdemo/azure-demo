@@ -1,0 +1,6 @@
+CREATE PROC [dbo].[UpdateRateCodeID]
+AS
+BEGIN
+UPDATE [dbo].[SqlpoolTable1]
+SET RatecodeID = 2
+END

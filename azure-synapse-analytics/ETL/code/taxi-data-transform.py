@@ -3,6 +3,7 @@ from pyspark.sql.types import *
 from pyspark.sql.functions import col, year, month, dayofmonth, unix_timestamp, round, when
 from datetime import datetime
 
+# Replace your storage location
 greentaxidf = spark.read.load('abfss://users@datatechdemostorage.dfs.core.windows.net/taxidata/GreenTaxiTripData_201812.csv', format='csv', header=True)
 display(greentaxidf.limit(10))
 
@@ -36,5 +37,4 @@ greentaxidf.printSchema()
 
 ## Store the DataFrame as an managed spark Table
 spark.sql("CREATE DATABASE IF NOT EXISTS nyctaxi")
-greentaxidf.repartition(4)
-greentaxidf.write.mode("overwrite").saveAsTable("nyctaxi.greentrip")
+greentaxidf.repartition(4).write.mode("overwrite").saveAsTable("nyctaxi.greentrip")

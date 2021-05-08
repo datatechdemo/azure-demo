@@ -1,6 +1,6 @@
-CREATE PROC [dbo].[UpdateRateCodeID]
+CREATE PROC [dbo].[UpdatePaymentType]
 AS
 BEGIN
 UPDATE [dbo].[greentaxi]
-SET RatecodeID = 2
+SET PaymentType = 2
 END

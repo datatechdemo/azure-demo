@@ -1,6 +1,6 @@
 CREATE PROC [dbo].[UpdateRateCodeID]
 AS
 BEGIN
-UPDATE [dbo].[SqlpoolTable1]
+UPDATE [dbo].[greentaxi]
 SET RatecodeID = 2
 END

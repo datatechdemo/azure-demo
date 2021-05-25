@@ -1,0 +1,632 @@
+car,price,body,mileage,engV,engType,registration,year,model,drive
+MG,8199,hatch,21,1.5,Petrol,yes,2014,5,front
+GMC,11999,crossover,100,3.6,Petrol,yes,2007,Acadia,full
+Volkswagen,4200,van,210,2,Diesel,no,2004,Touran,front
+Mercedes-Benz,32500,crossover,254,3.2,Diesel,yes,2008,GL 320,full
+Nissan,4700,sedan,230,3,Petrol,yes,2001,Maxima,front
+Renault,9000,vagon,179,1.5,Diesel,yes,2010,Megane,front
+Nissan,1650,sedan,234,1.8,Petrol,yes,1984,Stanza,front
+Mitsubishi,7699,crossover,254,3,Petrol,yes,2002,Pajero Sport,full
+Volkswagen,8900,hatch,90,1.9,Diesel,yes,2009,Golf V,front
+Mitsubishi,25999,crossover,86,3.2,Diesel,yes,2011,Pajero Wagon,full
+Chevrolet,23200,crossover,64,2.2,Diesel,yes,2013,Captiva,full
+Toyota,11750,sedan,93,1.6,Petrol,yes,2013,Corolla,front
+Mercedes-Benz,8700,other,260,2.2,Diesel,yes,2003,Sprinter 213 ïàññ.,rear
+Kia,11111,sedan,107,2,Gas,yes,2008,Magentis,front
+Mercedes-Benz,12900,sedan,255,2.7,Diesel,yes,2003,E-Class,rear
+Volkswagen,9700,vagon,130,1.6,Gas,yes,2008,Golf Variant,front
+Citroen,6700,van,161,1.4,Diesel,yes,2009,Nemo ïàññ.,front
+Suzuki,11400,crossover,127,2,Petrol,yes,2008,Grand Vitara,full
+Honda,20500,sedan,92,2.4,Petrol,yes,2011,Accord,front
+Mazda,2200,sedan,214,2,Petrol,no,1996,Xedos 6,front
+Skoda,2100,vagon,300,1.3,Gas,yes,1996,Felicia,front
+Opel,499,sedan,230,1.6,Petrol,no,1996,Vectra B,front
+Mazda,6250,hatch,191,2,Petrol,yes,2004,3,front
+VAZ,2000,sedan,200,1.5,Petrol,yes,2001,2115,front
+Opel,510,vagon,200,NA,Petrol,no,1997,Vectra B,front
+Opel,4750,vagon,272,1.8,Petrol,yes,1998,Vectra B,front
+Mercedes-Benz,5600,van,480,2.2,Diesel,yes,1999,Vito ãðóç.,front
+Nissan,11600,crossover,236,2,Gas,yes,2007,X-Trail,full
+Opel,750,hatch,50,1.3,Gas,no,1988,Kadett,front
+VAZ,950,sedan,86,1.2,Petrol,yes,1986,2101,rear
+Mercedes-Benz,2100,sedan,535,2.2,Diesel,yes,1995,210,rear
+Skoda,11800,sedan,89,1.6,Petrol,yes,2012,Octavia A5,front
+Volkswagen,7800,van,226,1.9,Diesel,yes,2005,T5 (Transporter) ãðóç,
+Chevrolet,5800,crossover,130,1.7,Gas,yes,2005,Niva,full
+Audi,29800,crossover,151,3,Diesel,yes,2007,Q7,full
+Mercedes-Benz,20500,sedan,193,3.5,Other,yes,2006,CLS 350,rear
+Audi,3800,sedan,257,2,Petrol,yes,1993,80,
+Nissan,8800,van,285,1.9,Diesel,yes,2004,Primastar ïàññ.,front
+UAZ,1300,sedan,120,2.5,Other,yes,1978,452 ïàññ.,full
+Renault,5950,hatch,200,1.5,Diesel,yes,2005,Megane,front
+GAZ,2350,sedan,1,1.8,Petrol,yes,1969,21,
+Opel,5500,other,180,1.3,Diesel,yes,2009,Combo ãðóç.,front
+Volkswagen,5950,van,213,1.6,Gas,yes,2008,Caddy ãðóç.,front
+Volkswagen,12000,sedan,73,1.6,Gas,yes,2011,Polo,front
+GAZ,5100,sedan,25,2.4,Petrol,yes,2008,31105,rear
+Mazda,8799,sedan,155,2,Gas,yes,2007,6,front
+Opel,2150,sedan,225,1.6,Gas,no,1996,Vectra B,front
+Toyota,8450,sedan,193,1.6,Gas,yes,2007,Corolla,front
+VAZ,3650,sedan,137,1.6,Petrol,yes,2008,21099,front
+Mazda,2250,van,212,1.8,Petrol,no,2004,Premacy,front
+Smart,4950,other,181,0.7,Petrol,yes,2003,Cabrio,rear
+Renault,1350,sedan,100,1.7,Petrol,yes,1986,21,front
+BMW,21700,sedan,259,3,Diesel,yes,2007,730,rear
+Mercedes-Benz,33900,other,102,5,Petrol,yes,2008,CL 55 AMG,
+Skoda,12300,hatch,39,1.2,Petrol,yes,2014,Rapid,front
+Toyota,12700,sedan,136,3.5,Petrol,yes,2007,Camry,front
+ZAZ,5400,sedan,20,1.5,Gas,yes,2013,Forza,front
+VAZ,1600,sedan,1,NA,Petrol,yes,1985,2106,rear
+Citroen,5400,van,200,1.6,Diesel,yes,2007,Berlingo ïàññ.,front
+Mercedes-Benz,14300,other,175,2.2,Diesel,yes,2013,Sprinter 313 ãðóç.,rear
+Daewoo,3500,sedan,180,1.5,Gas,yes,2007,Lanos,front
+Opel,1950,vagon,200,2,Diesel,no,2001,Vectra B,
+Volkswagen,6500,sedan,212,1.6,Petrol,yes,2003,Bora,front
+VAZ,741,sedan,167,1.3,Gas,yes,1986,2105,rear
+VAZ,2490,sedan,202,1.5,Gas,yes,2006,21099,front
+Chevrolet,7000,sedan,110,1.8,Petrol,yes,2008,Lacetti,front
+Honda,7800,other,220,2,Gas,yes,1999,CR-V,full
+VAZ,3499,sedan,137,1.6,Gas,yes,2007,2110,front
+Toyota,9999,sedan,345,3,Gas,yes,2005,Camry,front
+Nissan,9900,hatch,39,1.4,Petrol,yes,2013,Note,front
+Audi,2100,sedan,217,1.9,Diesel,no,1996,A4,front
+Toyota,10200,other,105,1.5,Gas,yes,2005,Scion,front
+Kia,6900,sedan,115,1.6,Gas,yes,2008,Cerato,front
+Subaru,4800,sedan,170,2,Other,yes,2003,Legacy,
+Toyota,0,hatch,76,1,Petrol,yes,2007,Aygo,front
+Chery,4075.5,vagon,290,2.4,Petrol,yes,2008,CrossEastar,front
+Mercedes-Benz,29900,crossover,86,3,Gas,yes,2010,GLK 300,
+VAZ,3650,vagon,230,1.6,Gas,yes,2007,2111,front
+VAZ,1850,sedan,94,1.5,Gas,yes,2007,2107,front
+Mercedes-Benz,2199,van,396,2.2,Diesel,no,2000,Vito ïàññ.,front
+Mercedes-Benz,0,crossover,1,3,Petrol,yes,2016,GLE-Class,full
+Mitsubishi,11999,crossover,235,3,Gas,yes,2007,Pajero Wagon,full
+Ford,16699,other,133,4,Petrol,yes,2008,Mustang,rear
+Chevrolet,5700,sedan,89,1.5,Petrol,yes,2008,Aveo,front
+Volkswagen,14800,sedan,143,2,Diesel,yes,2010,Passat B6,front
+VAZ,1300,sedan,7,1.2,Petrol,yes,1984,2105,rear
+Chevrolet,8000,sedan,93,2,Gas,yes,2008,Epica,front
+Geely,4999,sedan,39,1.5,Gas,yes,2013,MK-2,front
+Mercedes-Benz,4999,sedan,1,2.8,Petrol,yes,1997,E-Class,rear
+Nissan,2697,sedan,197,2,Diesel,yes,1992,Primera,front
+Mazda,12900,sedan,80,1.6,Gas,yes,2013,3,front
+Ford,0,other,1,5,Petrol,yes,2014,Mustang,rear
+Infiniti,13999,other,75,3.5,Petrol,yes,2006,G35,rear
+Mitsubishi,1599,sedan,156,1.8,Petrol,yes,1989,Galant,front
+Toyota,14500,other,180,2.5,Diesel,yes,2007,Hilux,full
+Volkswagen,13300,hatch,73,1.4,Petrol,yes,2011,Golf VI,front
+Peugeot,6700,van,134,1.6,Diesel,yes,2013,Partner ãðóç.,front
+Infiniti,20800,crossover,52,NA,Other,yes,2008,EX 35,
+VAZ,7100,crossover,42,1.7,Petrol,yes,2011,2121,full
+Peugeot,5000,sedan,139,1.4,Petrol,yes,2007,206,front
+Chevrolet,15800,crossover,90,2.4,Gas,yes,2007,Captiva,full
+Toyota,28700,crossover,80,3.5,Gas,yes,2012,Highlander,full
+Nissan,17200,crossover,65,1.6,Petrol,yes,2013,Juke,front
+Hyundai,18200,crossover,88,2,Petrol,yes,2012,IX35,full
+Honda,11900,hatch,88,1.8,Petrol,yes,2009,Civic,front
+Mazda,29500,crossover,40,2.2,Diesel,yes,2015,CX-5,full
+Ford,16200,crossover,84,2.5,Petrol,yes,2011,Kuga,full
+Honda,24700,sedan,65,2.4,Petrol,yes,2014,Accord,front
+Lexus,15700,sedan,105,3,Petrol,yes,2008,IS 300,rear
+Toyota,28900,sedan,15,2.5,Petrol,yes,2015,Camry,front
+Nissan,15700,other,0,NA,Other,yes,2012,Juke,
+Infiniti,15300,crossover,117,3.5,Petrol,yes,2005,FX 35,full
+Nissan,17200,crossover,75,3.5,Gas,yes,2009,Murano,full
+Peugeot,10900,other,91,1.6,Petrol,yes,2009,308,front
+Subaru,13200,crossover,94,2.5,Petrol,yes,2009,Forester,full
+Toyota,17900,sedan,35,1.6,Petrol,yes,2014,Corolla,front
+Nissan,7700,hatch,87,1.2,Petrol,yes,2009,Micra,front
+Nissan,7900,sedan,110,1.6,Petrol,yes,2008,TIIDA,front
+Acura,18500,crossover,85,3.7,Petrol,yes,2008,MDX,full
+Infiniti,18900,crossover,115,3.5,Gas,yes,2008,FX 35,full
+Lexus,17700,sedan,110,3.5,Petrol,yes,2008,ES 350,front
+Honda,19900,crossover,86,2.4,Gas,yes,2011,CR-V,full
+Nissan,14200,sedan,48,2.5,Petrol,yes,2013,Teana,front
+Ford,10600,sedan,96,1.6,Petrol,yes,2011,Focus,front
+Volkswagen,14100,vagon,115,2,Diesel,yes,2011,Caddy ïàññ.,front
+Renault,8400,van,260,1.9,Diesel,yes,2005,Trafic ïàññ.,front
+Honda,10500,other,78,1.4,Other,yes,2012,Jazz,front
+Opel,3600,other,250,2,Petrol,yes,1992,Calibra,front
+Chevrolet,6300,crossover,173,1.7,Petrol,yes,2008,Niva,full
+Volkswagen,8900,van,167,2,Gas,yes,2011,Caddy ãðóç.,front
+Skoda,7200,hatch,80,1.2,Petrol,yes,2013,Fabia,front
+Daewoo,9707.1,sedan,0,1.5,Petrol,yes,2014,Gentra,front
+Toyota,7899,sedan,165,1.8,Gas,yes,2006,Avensis,front
+Mercedes-Benz,14500,other,315,5,Gas,yes,2004,CL 500,rear
+Hyundai,8500,hatch,71,1.6,Petrol,yes,2011,i30,front
+Seat,8600,hatch,140,1.6,Petrol,yes,2009,Leon,front
+VAZ,1900,sedan,60,1.5,Petrol,yes,2004,2107,
+Toyota,33200,crossover,150,4,Gas,yes,2010,Land Cruiser Prado,full
+Volkswagen,12300,van,182,2,Diesel,yes,2011,T6 (Transporter) ãðóç,front
+Kia,7700,sedan,45,1.4,Petrol,yes,2011,Rio,front
+ZAZ,5500,sedan,33,1.5,Gas,yes,2011,Lanos,front
+Honda,8500,crossover,243,2,Gas,yes,2001,CR-V,full
+Citroen,3333,sedan,150,1.6,Petrol,yes,1999,Xsara,front
+Mercedes-Benz,14500,sedan,220,5,Petrol,yes,2004,S 500,full
+MINI,7500,hatch,120,1.6,Petrol,yes,2003,Cooper,front
+Dodge,10500,crossover,75,2,Petrol,yes,2008,Caliber,front
+VAZ,463.125,sedan,68,1.2,Petrol,yes,1984,2101,rear
+Chery,3500,sedan,223,2,Petrol,yes,2008,Eastar,front
+Audi,4999,crossover,242,2.5,Diesel,no,2003,A6 Allroad,full
+Daewoo,3300,sedan,300,2,Gas,yes,2003,Nubira,front
+Hyundai,3700,sedan,119,1.4,Petrol,yes,2008,Accent,front
+Nissan,14200,sedan,18,NA,Other,yes,2014,Leaf,front
+Nissan,14200,sedan,35,NA,Other,yes,2014,Leaf,
+Skoda,8500,sedan,80,NA,Petrol,yes,2013,Roomster,
+Opel,1600,other,570,99.99,Gas,yes,1986,Kadett,
+Toyota,72000,crossover,40,4.5,Diesel,yes,2014,Land Cruiser 200,full
+Nissan,17900,sedan,30,3.5,Petrol,yes,2010,Maxima,front
+Volkswagen,6950,sedan,132,1.6,Other,yes,2004,Bora,front
+Audi,32500,crossover,108,2,Diesel,yes,2012,Q5,full
+BMW,24500,crossover,170,3,Diesel,yes,2006,X5,full
+Lexus,20500,crossover,167,3.5,Petrol,yes,2007,RX 350,full
+Mercedes-Benz,8700,sedan,290,2.7,Diesel,yes,1999,E-Class,rear
+Nissan,7900,sedan,82,1.6,Petrol,yes,2008,TIIDA,front
+Opel,9800,hatch,50,1.2,Petrol,yes,2013,Corsa,front
+Opel,920,hatch,24,1.3,Petrol,yes,1989,Kadett,front
+Fiat,7300,van,110,1.9,Diesel,yes,2008,Doblo ïàññ.,front
+Opel,3799,vagon,251,1,Gas,yes,2001,Agila,front
+Skoda,3000,hatch,180,1.4,Petrol,yes,2002,Fabia,front
+BMW,20000,sedan,230,6,Petrol,yes,2008,760,rear
+Volkswagen,10650,sedan,65,1.6,Petrol,yes,2013,Polo,front
+VAZ,1900,sedan,109,1.5,Petrol,yes,2004,2107,rear
+Audi,11400,crossover,250,2.5,Diesel,yes,2005,A6 Allroad,full
+Volkswagen,4700,van,342,1.9,Diesel,yes,1996,T4 (Transporter) ãðóç,front
+Land Rover,20500,crossover,119,NA,Diesel,yes,2006,Range Rover Sport,full
+VAZ,3800,sedan,136,1.6,Gas,yes,2006,1118,front
+Renault,10500,van,67,1.6,Petrol,yes,2012,Scenic,front
+Volkswagen,17900,sedan,192,2.5,Diesel,yes,2007,Multivan,front
+Renault,5500,van,160,1.5,Diesel,yes,2005,Kangoo ïàññ.,front
+Honda,11300,hatch,89,1.8,Petrol,yes,2008,Civic,front
+Volkswagen,6900,sedan,160,1.6,Petrol,yes,2003,Bora,front
+Chery,5800,crossover,85,2,Petrol,yes,2012,Tiggo,front
+Chevrolet,7000,sedan,129,1.8,Petrol,yes,2007,Lacetti,front
+Subaru,7800,sedan,180,2,Petrol,yes,2006,Legacy,full
+Renault,8900,van,170,1.9,Diesel,yes,2005,Trafic ïàññ.,front
+Hyundai,13700,crossover,123,2.2,Diesel,yes,2006,Santa FE,full
+MG,8999,sedan,58,1.6,Petrol,yes,2013,350,front
+Chevrolet,5900,hatch,69,1.5,Petrol,yes,2011,Aveo,front
+Mazda,21900,sedan,50,2.5,Petrol,yes,2013,6,
+Renault,11900,crossover,68,1.5,Diesel,yes,2011,Duster,full
+Nissan,5200,hatch,126,1.2,Petrol,yes,2004,Micra,front
+Volkswagen,14899,van,165,2,Diesel,yes,2013,Caddy ãðóç.,
+Audi,3800,vagon,190,2.5,Diesel,no,2002,A6,front
+BMW,16999,other,90,2.5,Petrol,yes,2008,325,full
+Opel,5700,van,245,1.3,Diesel,yes,2007,Combo ïàññ.,front
+Ford,2550,hatch,60,1.3,Petrol,yes,1997,KA,front
+Audi,8000,sedan,234,4.2,Gas,no,2004,A8,full
+BMW,8300,sedan,197,3,Petrol,yes,2001,530,rear
+VAZ,3500,hatch,105,1.4,Other,yes,2008,1119,front
+Nissan,5700,sedan,181,3,Petrol,yes,2000,Maxima,front
+Skoda,3000,sedan,244,1.9,Diesel,no,2001,Octavia,front
+Mercedes-Benz,3800,crossover,250,3.2,Gas,no,1998,ML 320,full
+BMW,3800,sedan,278,2.9,Diesel,no,2001,530,rear
+BMW,3100,sedan,280,2,Diesel,no,1999,320,rear
+Mercedes-Benz,5100,sedan,270,3.2,Diesel,no,2001,S 320,rear
+Audi,4400,sedan,190,2.5,Diesel,no,2003,A6,front
+Audi,4300,sedan,267,1.9,Diesel,no,2003,A6,front
+Audi,3900,sedan,302,1.9,Diesel,no,2002,A6,front
+Daewoo,4800,sedan,37,1.5,Gas,yes,2007,Lanos,front
+Samand,3999,sedan,105,1.8,Gas,yes,2008,EL,front
+Opel,11700,hatch,30,1.6,Gas,yes,2014,Astra H,front
+Audi,9000,vagon,199,2.7,Petrol,yes,2003,A6 Allroad,full
+Volkswagen,15700,sedan,110,1.8,Petrol,yes,2011,Passat B7,front
+Ford,4000,van,400,2,Diesel,yes,2002,Transit ãðóç.,front
+BMW,4100,sedan,200,2.7,Petrol,yes,1988,525,rear
+Volkswagen,10900,vagon,185,1.4,Petrol,yes,2011,Golf VII,front
+BMW,9700,sedan,250,2,Petrol,yes,2003,318,rear
+Skoda,13100,sedan,93,1.8,Petrol,yes,2010,Octavia A5,front
+Mercedes-Benz,23999,sedan,204,3.5,Petrol,yes,2008,S 350,full
+Mercedes-Benz,20500,sedan,222,5.5,Petrol,yes,2006,S 500,rear
+VAZ,3900,hatch,121,1.4,Petrol,yes,2008,1119,front
+Chevrolet,6400,sedan,121,1.8,Petrol,yes,2008,Lacetti,front
+Lexus,34500,crossover,94,3.5,Petrol,yes,2011,RX 350,full
+Volkswagen,44000,crossover,150,4.2,Diesel,yes,2011,Touareg,full
+Audi,3200,sedan,295,2.5,Diesel,no,2000,A6,front
+Hyundai,12900,crossover,49,2.7,Petrol,yes,2008,Tucson,full
+Mercedes-Benz,3200,sedan,198,2,Gas,yes,1992,190,rear
+Volkswagen,7600,hatch,127,1.4,Petrol,yes,2007,Polo,front
+Volkswagen,17900,sedan,96,2.5,Petrol,yes,2013,Passat B7,front
+Chevrolet,6500,hatch,65,1.5,Petrol,yes,2010,Aveo,front
+Mercedes-Benz,9500,other,280,2.9,Diesel,yes,1998,Sprinter 312 ïàññ.,rear
+Mitsubishi,18200,crossover,147,3.2,Diesel,yes,2008,Pajero Wagon,full
+Lexus,7900,sedan,242,2,Petrol,yes,2000,IS 200,rear
+VAZ,2300,sedan,99,1.5,Gas,yes,2007,2107,rear
+Ford,17999,sedan,32,NA,Other,yes,2014,Focus Electric,front
+VAZ,649,sedan,9,1.2,Petrol,yes,1977,2101,rear
+Renault,6700,van,1,NA,Diesel,yes,2012,Kangoo ãðóç.,front
+Mercedes-Benz,3600,sedan,276,2.7,Diesel,no,2001,E-Class,rear
+SsangYong,15900,crossover,42,2,Diesel,yes,2014,Korando,front
+Mercedes-Benz,17999,other,38,2,Petrol,yes,2009,CLC 200,rear
+Skoda,6400,hatch,146,1.6,Petrol,yes,2005,Octavia Tour,front
+Hyundai,9100,hatch,62,1.4,Petrol,yes,2011,i30,front
+Volkswagen,5200,van,260,1.9,Diesel,no,2005,Touran,front
+Chevrolet,5600,sedan,115,1.6,Other,yes,2008,Aveo,front
+Ford,5500,hatch,170,1.4,Diesel,yes,2007,Fiesta,front
+Land Rover,75000,crossover,14,2.2,Diesel,yes,2015,Defender,full
+Toyota,63000,crossover,3,4.2,Diesel,yes,2013,Land Cruiser 76,full
+Mazda,17900,sedan,48,2,Petrol,yes,2013,6,front
+MINI,33000,other,30,2,Diesel,yes,2014,Paceman,full
+Volkswagen,5200,vagon,248,2,Diesel,no,2005,Passat B6,front
+Honda,2900,hatch,228,1.7,Diesel,no,2003,Civic,front
+Infiniti,17999,crossover,150,3.5,Gas,yes,2007,FX 35,full
+Renault,6200,van,322,NA,Diesel,yes,2001,Trafic ïàññ.,front
+BMW,3000,sedan,294,2,Diesel,no,1999,320,rear
+Volkswagen,8200,van,265,2.5,Diesel,no,2007,Caravelle,front
+Audi,3900,vagon,260,2.5,Diesel,no,2003,A6,front
+Fiat,1500,other,40,10,Gas,yes,1988,125,rear
+Lexus,13600,crossover,297,3.3,Gas,yes,2003,RX 330,full
+Skoda,8300,sedan,190,1.8,Petrol,yes,2008,Octavia Tour,front
+VAZ,1100,sedan,70,1.5,Petrol,yes,1990,2107,rear
+Infiniti,23900,sedan,66,2.5,Gas,yes,2012,G25,rear
+Chevrolet,8000,sedan,59,1.8,Petrol,yes,2011,Lacetti,front
+Volkswagen,23999,sedan,80,2,Diesel,yes,2014,Passat B7,front
+Nissan,4799,sedan,180,2,Petrol,yes,1999,Maxima,front
+Toyota,61000,crossover,100,4.5,Diesel,yes,2013,Land Cruiser 200,full
+Jaguar,21500,sedan,160,4,Petrol,yes,2001,Daimler,rear
+Toyota,5000,crossover,289,2,Diesel,no,2003,Rav 4,full
+Honda,15900,crossover,136,3.5,Gas,yes,2007,Pilot,full
+Lexus,26800,sedan,33,4.6,Petrol,yes,2009,LS 460,rear
+Geely,4800,sedan,49,1.5,Petrol,yes,2012,MK-2,front
+Subaru,32300,crossover,0,2,Petrol,yes,2016,Forester,full
+Kia,3500,sedan,202,2,Petrol,yes,2000,Clarus,front
+Skoda,11250,sedan,85,1.6,Petrol,yes,2012,Octavia A5,front
+Volkswagen,13700,sedan,134,2,Diesel,yes,2012,Passat B6,front
+BMW,16800,sedan,154,3,Petrol,yes,2006,330,full
+Land Rover,67999,crossover,0,3,Diesel,yes,2016,Discovery,full
+Lexus,12600,crossover,225,3,Petrol,yes,2003,RX 300,full
+Renault,6450,vagon,100,1.5,Diesel,yes,2009,Kangoo ïàññ.,front
+Peugeot,8550,hatch,95,1.6,Petrol,yes,2012,308,front
+Toyota,11200,sedan,179,2.4,Petrol,yes,2006,Camry,front
+Nissan,12799,crossover,84,1.6,Petrol,yes,2011,Qashqai,front
+Toyota,11750,sedan,69,1.6,Petrol,yes,2013,Corolla,front
+Subaru,10500,vagon,162,2.5,Gas,yes,2007,Outback,full
+Ford,9850,vagon,99,1.6,Petrol,yes,2012,Focus,front
+Ford,11000,other,77,1.6,Petrol,yes,2012,Focus,front
+SsangYong,13700,crossover,100,2.7,Diesel,yes,2010,Rexton II,full
+Nissan,13350,other,72,1.5,Diesel,yes,2014,Note,front
+Skoda,17500,sedan,127,1.8,Petrol,yes,2012,Superb,front
+VAZ,1300,hatch,77,1.5,Gas,yes,1996,2108,front
+Chevrolet,21700,sedan,73,2.2,Diesel,yes,2013,Captiva,full
+Hyundai,12800.775,hatch,0,1.4,Petrol,yes,2016,Solaris,front
+Opel,2900,hatch,1,1.4,Petrol,yes,1992,Astra F,front
+BMW,77000,other,64,4.4,Petrol,yes,2012,M6,
+VAZ,2400,sedan,62,1.5,Petrol,yes,2006,2107,rear
+Skoda,22999,other,1,1.6,Diesel,yes,2015,Octavia A7,
+Renault,4650,van,165,1.5,Diesel,yes,2003,Kangoo ãðóç.,front
+Volkswagen,10700,hatch,60,1.4,Petrol,yes,2010,Polo,
+Mercedes-Benz,9500,sedan,246,6,Petrol,yes,1997,S 600,
+Mercedes-Benz,8300,sedan,175,2,Petrol,yes,2001,E-Class,
+BMW,11800,sedan,218,2,Petrol,yes,2006,320,rear
+Daewoo,3500,sedan,120,1.5,Gas,yes,2012,Nexia,front
+Citroen,9900,vagon,177,1.6,Diesel,yes,2013,C5,
+Chevrolet,28950,sedan,24,1.4,Other,yes,2013,Volt,front
+Ford,24300,hatch,25,0.14,Other,yes,2013,Focus,front
+Suzuki,2800,sedan,154,1.3,Petrol,yes,2002,Swift,front
+Mazda,5700,other,74,1.31,Petrol,yes,2006,RX-8,rear
+Nissan,15700,hatch,42,NA,Other,yes,2013,Leaf,front
+Tesla,54000,sedan,49,0.1,Other,yes,2013,Model S,rear
+Volkswagen,8900,sedan,160,1.6,Petrol,yes,2006,Jetta,front
+Chevrolet,29700,hatch,52,1.4,Other,yes,2013,Volt,front
+Volkswagen,18100,other,64,2,Petrol,yes,2011,Scirocco,
+Chevrolet,54000,other,1,2,Petrol,yes,2015,Camaro,rear
+Skoda,14950,sedan,85,1.8,Petrol,yes,2012,Octavia A5,front
+Chevrolet,29700,hatch,52,1.4,Other,yes,2014,Volt,front
+Audi,10399,sedan,293,1.8,Gas,yes,2004,A4,full
+Renault,6799,van,140,1.5,Diesel,yes,2012,Kangoo ãðóç.,front
+Skoda,13450,sedan,109,1.8,Petrol,yes,2012,Octavia A5,front
+Daewoo,2700,sedan,145,1.5,Gas,yes,1997,Nexia,front
+Chevrolet,7650,sedan,42,1.4,Gas,yes,2013,Aveo,front
+Volkswagen,4100,hatch,160,1.8,Petrol,yes,2006,Pointer,front
+Mercedes-Benz,10999,van,263,2.2,Diesel,yes,2005,Vito ïàññ.,rear
+VAZ,3950,hatch,125,1.6,Petrol,yes,2008,2112,front
+Volkswagen,11999,sedan,240,1.6,Petrol,yes,2010,Jetta,front
+Renault,10990,sedan,118,2,Petrol,yes,2012,Fluence,front
+Subaru,37500,crossover,0,2,Diesel,yes,2016,Forester,full
+Daewoo,4650,sedan,8,1.3,Petrol,yes,2012,Sens,
+Volkswagen,8650,hatch,150,1.4,Petrol,yes,2008,Golf V,front
+Mitsubishi,2500,sedan,220,2.4,Petrol,yes,1987,Galant,front
+Mercedes-Benz,47300,sedan,121,3,Diesel,yes,2012,S 350,full
+Mitsubishi,9200,sedan,84,2,Petrol,yes,2009,Lancer X,front
+VAZ,3600,hatch,62,1.6,Petrol,yes,2008,2109,front
+Mercedes-Benz,23900,sedan,124,1.8,Petrol,yes,2012,E-Class,rear
+Renault,10600,vagon,113,1.5,Diesel,yes,2011,Megane,front
+Volkswagen,25500,other,52,2,Petrol,yes,2012,Scirocco,front
+Chevrolet,10999,sedan,95,1.6,Petrol,yes,2012,Cruze,front
+Honda,9500,hatch,119,1.8,Petrol,yes,2008,Civic,front
+Audi,39999,crossover,100,3,Diesel,yes,2011,Q7,full
+Subaru,18700,crossover,98,2.5,Petrol,yes,2011,Outback,full
+Audi,18300,sedan,125,2,Diesel,yes,2009,A6,front
+Porsche,23500,crossover,100,3.6,Petrol,yes,2008,Cayenne,full
+Renault,11300,vagon,160,1.5,Diesel,yes,2011,Laguna,front
+Toyota,12600,sedan,205,2.4,Gas,yes,2006,Camry,front
+Renault,9300,van,200,1.5,Diesel,yes,2009,Grand Scenic,front
+Nissan,11300,crossover,150,3.5,Gas,yes,2005,Murano,full
+Ford,10700,sedan,170,2,Diesel,yes,2008,Mondeo,front
+Ford,5700,other,100,NA,Other,yes,1985,Thunderbird,
+Peugeot,8999,van,200,1.6,Diesel,yes,2007,Expert ïàññ.,front
+Subaru,8999,crossover,138,2.5,Petrol,yes,2006,Outback,full
+Mercedes-Benz,5200,van,400,2.9,Diesel,yes,1999,Sprinter 210 ãðóç.,rear
+Volvo,10999,crossover,200,2.5,Petrol,yes,2006,XC70,full
+Mitsubishi,5200,van,200,1.6,Petrol,yes,2003,Space Star,front
+Opel,9399,van,184,2,Diesel,yes,2010,Vivaro ãðóç.,front
+BMW,4400,sedan,300,2,Petrol,yes,1995,520,rear
+Opel,9900,van,200,2,Diesel,yes,2010,Vivaro ãðóç.,front
+Ford,9500,van,190,2.2,Diesel,yes,2012,Transit ãðóç.,front
+Honda,5900,sedan,250,3.5,Gas,yes,1999,Legend,front
+Mazda,4500,sedan,250,1.6,Petrol,yes,1997,Xedos 6,front
+Volkswagen,14999,crossover,200,4.2,Petrol,yes,2007,Touareg,full
+Renault,11500,van,170,1.5,Diesel,yes,2012,Grand Scenic,front
+Renault,7500,van,240,74,Diesel,yes,2005,Grand Scenic,front
+Fiat,8999,hatch,94,1.4,Petrol,yes,2011,Grande Punto,front
+Citroen,13200,vagon,141,1.6,Diesel,yes,2011,C4 Picasso,front
+Renault,9500,hatch,100,1.5,Diesel,yes,2009,Megane,front
+Ford,3300,hatch,150,1.3,Other,yes,1998,Escort,front
+Suzuki,8500,crossover,129,1.3,Petrol,yes,2006,Jimny,full
+Kia,10900,sedan,28,NA,Petrol,yes,2013,Rio,front
+Mitsubishi,4900,vagon,250,2.5,Petrol,yes,2001,Galant,front
+Geely,10000,sedan,45,2.4,Petrol,yes,2014,Emgrand 8,front
+Subaru,9499,vagon,158,2.5,Gas,yes,2008,Outback,full
+Ford,2800,hatch,397,2,Gas,yes,1991,Scorpio,rear
+Toyota,2999,other,300,1.6,Petrol,yes,1991,Corolla,front
+Kia,5500,crossover,255,2,Gas,yes,1997,Sportage,full
+Skoda,13800,sedan,109,1.9,Diesel,yes,2012,Octavia A5,front
+Volkswagen,11500,sedan,130,2,Diesel,yes,2008,Passat B6,front
+Mazda,1750,other,280,1.8,Petrol,yes,1991,323,front
+Volkswagen,15900,vagon,1,2,Diesel,yes,2012,T6 (Transporter) ãðóç,front
+Toyota,13900,hatch,90,1.6,Petrol,yes,2012,Auris,
+Hyundai,14800,sedan,99,2,Gas,yes,2011,Sonata,front
+Toyota,65000,crossover,90,4.5,Diesel,yes,2012,Land Cruiser 200,full
+Mitsubishi,10200,sedan,104,NA,Gas,yes,2008,Lancer X,front
+Honda,12000,sedan,135,2.4,Gas,yes,2008,Accord,front
+Volkswagen,2200,sedan,279,1.9,Diesel,no,2000,Passat B5,front
+Citroen,8500,van,140,1.6,Diesel,yes,2010,Berlingo ïàññ.,front
+Renault,10200,van,149,1.5,Diesel,yes,2013,Kangoo ïàññ.,front
+Mercedes-Benz,13200,van,217,3.7,Gas,yes,2005,Viano ïàññ.,rear
+Skoda,11900,vagon,130,1.6,Diesel,yes,2012,Octavia A5,front
+Renault,14600,other,169,2.3,Diesel,yes,2013,Master ãðóç.,front
+Volkswagen,1499,sedan,220,2,Gas,no,1995,Passat B4,front
+Volkswagen,8200,other,102,1.6,Diesel,yes,2012,Caddy ãðóç.,front
+Toyota,18300,crossover,120,2,Petrol,yes,2011,Rav 4,full
+Honda,10500,hatch,104,1.8,Petrol,yes,2008,Civic,front
+Chevrolet,5900,hatch,110,1.6,Gas,yes,2008,Lacetti,front
+Honda,17700,sedan,84,2,Petrol,yes,2011,Accord,front
+BMW,41500,crossover,176,3,Diesel,yes,2012,X5,full
+Mitsubishi,9000,sedan,158,NA,Other,yes,2007,Lancer,
+Moskvich-AZLK,1250,hatch,95,1.5,Petrol,yes,1992,2141,front
+Mitsubishi,7400,sedan,148,1.6,Petrol,yes,2008,Lancer,front
+Subaru,9399,crossover,146,2,Petrol,yes,2007,Forester,full
+Lexus,8100,sedan,258,99.99,Other,yes,2001,ES 300,front
+Toyota,20000,van,135,2.4,Gas,yes,2006,Previa,front
+VAZ,4500,vagon,40,NA,Petrol,yes,2009,2111,front
+Opel,500,sedan,200,2,Petrol,no,1997,Vectra B,front
+VAZ,722.475,sedan,10,1.2,Petrol,yes,1984,2101,rear
+Porsche,54500,crossover,30,3.6,Petrol,yes,2013,Cayenne,full
+Volkswagen,5600,vagon,235,1.4,Petrol,yes,2000,Golf IV,front
+Renault,7200,van,1,1.5,Diesel,yes,2012,Kangoo ãðóç.,front
+Chevrolet,6800,vagon,99,1.8,Gas,yes,2007,Lacetti,front
+Lincoln,39000,other,165,5.7,Petrol,yes,2005,Town Car,rear
+Opel,2800,vagon,241,2.2,Gas,no,2002,Omega,rear
+Peugeot,12100,vagon,171,1.6,Diesel,yes,2010,5008,front
+VAZ,1500,sedan,5,1.6,Petrol,yes,2007,2107,rear
+Volkswagen,1800,other,300,1.3,Petrol,yes,1989,Golf II,front
+Ford,1050,vagon,150,2,Gas,yes,1987,Sierra,rear
+VAZ,4700,vagon,75,1.6,Petrol,yes,2010,2171,front
+Lancia,3000,van,290,2.2,Diesel,no,2002,Phedra,front
+Nissan,17499,crossover,36,1.6,Petrol,yes,2013,Juke,front
+Barkas,5500,van,80,NA,Petrol,yes,2015,B1000,
+Toyota,13300,sedan,104,2.4,Petrol,yes,2007,Camry,front
+Mercedes-Benz,2900,sedan,282,2.2,Diesel,no,2000,210,rear
+Ford,620,hatch,220,1.4,Petrol,yes,1987,Escort,front
+Chevrolet,5300,other,125,1.6,Gas,yes,2007,Aveo,front
+Audi,6900,sedan,250,2.4,Gas,yes,1999,A6,front
+Fiat,1000,hatch,11,1.5,Petrol,yes,1988,Uno,front
+Audi,8800,sedan,298,2.4,Gas,yes,1999,A6,front
+Toyota,12700,sedan,160,2.4,Gas,yes,2005,Camry,front
+Fiat,6600,van,143,1.3,Diesel,yes,2012,Doblo ãðóç.,front
+Ford,10800,van,200,2.2,Diesel,yes,2007,Transit ïàññ.,front
+Hyundai,5000,sedan,180,1.6,Petrol,yes,2004,Elantra,front
+Peugeot,8950,hatch,80,1.6,Petrol,yes,2012,308,front
+Daewoo,3800,sedan,65,1.3,Petrol,yes,2013,Sens,front
+UAZ,3500,crossover,80,2.9,Gas,yes,2008,3741,full
+Skoda,8500,other,190,1.6,Petrol,yes,2007,Octavia Tour,front
+Chevrolet,5800,hatch,159,1.6,Petrol,yes,2008,Lacetti,front
+Skoda,7899,sedan,192,1.6,Petrol,yes,2006,Octavia A5,front
+Toyota,9400,sedan,148,1.8,Gas,yes,2008,Avensis,front
+Renault,1900,vagon,200,2,Gas,yes,1987,25,front
+MG,8900,sedan,72,1.8,Petrol,yes,2013,550,front
+Subaru,8200,crossover,137,2,Petrol,yes,2006,Forester,full
+Suzuki,15486.9,hatch,0,1.2,Petrol,yes,2016,Swift,front
+BMW,5500,sedan,249,NA,Other,yes,1995,530,rear
+Audi,9999,sedan,190,3,Petrol,yes,2007,A6,full
+Mercedes-Benz,3500,van,257,2.2,Diesel,no,2002,C-Class,rear
+Mitsubishi,17500,crossover,194,3.2,Diesel,yes,2008,Pajero Wagon,full
+Opel,1600,hatch,59,1.2,Gas,yes,1990,Corsa,front
+VAZ,3050,hatch,107,1.6,Petrol,yes,2008,2113,front
+VAZ,600,sedan,60,1.2,Petrol,yes,1976,2101,rear
+Suzuki,13400,crossover,185,2,Gas,yes,2008,Grand Vitara,full
+SsangYong,12400,crossover,70,2,Gas,yes,2012,Korando,front
+Huanghai,8500,crossover,90,2.4,Petrol,yes,2007,Aurora,full
+Kia,7999,hatch,112,1.6,Other,yes,2008,Ceed,front
+VAZ,1050,sedan,65,1.3,Gas,yes,1980,2101,rear
+VAZ,3650,vagon,177,1.6,Petrol,yes,2007,2111,front
+Volkswagen,7700,other,290,NA,Diesel,yes,2000,T4 (Transporter) ïàññ.,front
+Mazda,10800,van,80,2,Petrol,yes,2008,5,front
+ËUAZ,1296.75,other,30,1.2,Petrol,yes,1990,969Ì,
+Audi,10999,sedan,200,1.8,Petrol,yes,2006,A4,front
+Chevrolet,6200,hatch,124,1.6,Petrol,yes,2007,Lacetti,front
+VAZ,3000,hatch,123,1.6,Petrol,yes,2009,21093,front
+Ford,9599,hatch,30,1,Petrol,yes,2014,Fiesta,front
+Mercedes-Benz,2600,hatch,111,1.4,Petrol,no,1999,A 140,
+Nissan,24500,crossover,62,1.6,Diesel,yes,2015,Qashqai,front
+Chevrolet,56800,other,1,2,Petrol,yes,2016,Camaro,rear
+Toyota,68500,van,1,3.5,Petrol,yes,2016,Sienna,full
+Alfa Romeo,1800,hatch,185,1.7,Gas,yes,1991,33,front
+Volkswagen,3000,vagon,267,1.9,Diesel,no,1999,Passat B5,front
+BMW,21335,other,105,3,Petrol,yes,2008,335,rear
+VAZ,3650,sedan,106,1.6,Petrol,yes,2006,2115,front
+Mercedes-Benz,3500,sedan,303,2.2,Diesel,no,2000,C-Class,rear
+Audi,3100,hatch,114,1.6,Petrol,no,2001,A3,front
+Toyota,2700,sedan,550,1.6,Gas,yes,1989,Carina,front
+Mercedes-Benz,4400,sedan,308,3.2,Gas,no,2000,S 320,rear
+BMW,8100,sedan,245,2,Diesel,no,2007,320,rear
+Moskvich-AZLK,770,hatch,325,1.5,Gas,yes,1990,2141,front
+BMW,2900,sedan,280,2.5,Diesel,no,1997,525,rear
+Audi,11300,sedan,202,2.7,Diesel,no,2008,A6,full
+BMW,6800,sedan,325,NA,Other,no,2005,525,
+BMW,8900,vagon,274,2,Diesel,no,2007,320,rear
+VAZ,2000,crossover,60,1.6,Petrol,yes,1992,2121,full
+Skoda,4999,sedan,260,1.6,Gas,yes,1998,Octavia,front
+Mercedes-Benz,4100,sedan,215,4.3,Petrol,no,2001,CLK 430,rear
+Mitsubishi,1550,hatch,1,1.8,Diesel,yes,1990,Galant,front
+Nissan,14999,hatch,21,NA,Other,yes,2013,Leaf,front
+VAZ,3550,sedan,120,1.6,Petrol,yes,2006,2110,
+Kia,11300,hatch,67,1.6,Petrol,yes,2010,Ceed,front
+Audi,2500,sedan,407,2.8,Gas,no,1999,A6,front
+BMW,2499,sedan,210,1.8,Petrol,no,2000,318,rear
+Audi,3100,vagon,210,2.5,Diesel,no,2000,A6,front
+Peugeot,3699,sedan,230,2,Diesel,no,2005,407,front
+Audi,7600,vagon,226,3,Diesel,no,2006,A6,full
+Audi,3400,vagon,223,2.5,Diesel,no,2001,A6,front
+Mitsubishi,6700,sedan,161,1.6,Gas,yes,2006,Lancer,front
+Dacia,6800,sedan,56,1.4,Petrol,yes,2011,Logan,front
+Wartburg,1000,sedan,90,1.3,Petrol,yes,1989,1.3,front
+Toyota,12500,sedan,150,2.4,Petrol,yes,2007,Camry,front
+Great Wall,6900,crossover,145,2.4,Gas,yes,2006,Hover,full
+ZAZ,1148.55,hatch,500,1.2,Gas,yes,2004,1103 Ñëàâóòà,front
+Mercedes-Benz,10000,van,450,NA,Diesel,yes,1998,Sprinter 312 ïàññ.,rear
+Ford,1600,sedan,250,2,Petrol,yes,1990,Scorpio,rear
+Renault,0,vagon,137,1.9,Diesel,yes,2008,Kangoo ïàññ.,front
+Renault,6300,vagon,189,1.5,Diesel,yes,2008,Kangoo ïàññ.,front
+Skoda,13300,hatch,90,1.8,Petrol,yes,2012,Octavia A5,front
+Nissan,5000,sedan,260,3,Gas,yes,2000,Maxima,
+Opel,2000,vagon,200,1.6,Gas,no,2004,Zafira,front
+Mitsubishi,3500,sedan,300,2,Diesel,yes,1996,Galant,front
+Buick,3500,sedan,190,3.3,Petrol,yes,1990,Century,front
+Chevrolet,5850,sedan,200,2,Gas,yes,2007,Epica,front
+VAZ,750,sedan,123,1.2,Petrol,yes,1990,2105,
+Renault,1300,van,265,1.9,Diesel,no,1999,Kangoo ãðóç.,front
+VAZ,2450,sedan,28,1.5,Petrol,yes,2001,2106,rear
+Nissan,17800,sedan,73,3.5,Gas,yes,2011,Teana,front
+BMW,2200,sedan,290,1.6,Petrol,yes,1985,316,rear
+SsangYong,20500,crossover,57,2.7,Diesel,yes,2013,Rexton W,full
+Ford,17700,crossover,67,2.5,Petrol,yes,2012,Kuga,full
+Skoda,22500,vagon,75,1.8,Petrol,yes,2014,Superb,front
+SsangYong,10999,crossover,140,2,Diesel,yes,2007,Kyron,full
+Volkswagen,8400,van,143,1.6,Diesel,yes,2011,Caddy ãðóç.,front
+Kia,14000,crossover,145,2.5,Diesel,yes,2008,Sorento,full
+Hyundai,6200,van,187,2.5,Diesel,yes,2005,H1 ïàññ.,rear
+Skoda,10000,hatch,220,1.6,Gas,yes,2007,Octavia,front
+Volvo,34900,crossover,200,2.4,Diesel,yes,2014,XC70,full
+Renault,6650,hatch,274,1.5,Diesel,yes,2006,Scenic,front
+SsangYong,9900,crossover,156,2.7,Diesel,yes,2007,Rexton II,full
+Citroen,7100,hatch,145,1.6,Diesel,yes,2007,C4,front
+Mercedes-Benz,10900,sedan,217,3.2,Diesel,yes,2002,E-Class,rear
+VAZ,1750,sedan,87,1.3,Petrol,yes,1992,2106,rear
+Renault,5650,hatch,175,99.99,Other,yes,2002,Laguna,
+Chrysler,0,vagon,198,NA,Petrol,yes,2001,PT Cruiser,front
+Skoda,7000,hatch,100,1.4,Petrol,yes,2012,Fabia,front
+VAZ,1080,hatch,23,1.3,Petrol,yes,1989,2109,front
+ZAZ,2800,sedan,25,1.2,Petrol,yes,2006,1103 Ñëàâóòà,front
+Opel,3999,other,1,2,Petrol,yes,1979,Manta,rear
+Mercedes-Benz,6900,other,311,2.2,Diesel,yes,1999,Vito ïàññ.,front
+VAZ,3200,sedan,85,1.5,Gas,yes,2004,2110,front
+BMW,77777,sedan,8,4.4,Petrol,yes,2014,750,full
+Opel,4500,crossover,290,2,Petrol,yes,1995,Frontera,full
+Renault,3300,van,250,1.5,Diesel,yes,2005,Kangoo ïàññ.,front
+Renault,8100,van,135,NA,Diesel,yes,2008,Kangoo ïàññ.,front
+Chevrolet,6200,vagon,112,2,Gas,yes,2005,Tacuma,front
+Opel,4050,sedan,264,2,Petrol,yes,1998,Omega,rear
+Opel,20120,sedan,0,1.6,Diesel,yes,2016,Astra J,front
+Nissan,29077.9515,crossover,0,1.6,Diesel,yes,2016,X-Trail,front
+Daewoo,5800,sedan,71,1.6,Petrol,yes,2004,Nubira,front
+Mitsubishi,8900,other,150,3,Petrol,yes,2000,Eclipse,front
+Renault,8200,hatch,79,1.6,Petrol,yes,2008,Laguna,front
+Daihatsu,4500,hatch,50,1,Petrol,yes,2000,Cuore,front
+Mitsubishi,10600,crossover,52,2,Petrol,yes,2008,Outlander,full
+Renault,8600,hatch,84,1.5,Diesel,yes,2012,Clio,rear
+ZAZ,2300,sedan,75,1.2,Petrol,yes,2008,1103 Ñëàâóòà,front
+Land Rover,67900,crossover,60,3,Petrol,yes,2013,Range Rover Sport,full
+Ford,5500,sedan,215,2,Petrol,yes,2006,Mondeo,front
+Ford,7100,hatch,70,1.6,Petrol,yes,2006,Focus,front
+Nissan,28900,crossover,25,2,Petrol,yes,2014,X-Trail,full
+Opel,10800,other,228,2,Diesel,yes,2007,Vivaro ïàññ.,front
+Opel,4450,sedan,220,3,Gas,yes,1995,Omega,rear
+Land Rover,15900,crossover,189,3.2,Petrol,yes,2007,Freelander,full
+Dodge,13200,crossover,145,3.7,Petrol,yes,2007,Nitro,full
+Volkswagen,2600,other,296,1.9,Diesel,no,2000,Golf IV,front
+ËUAZ,1300,crossover,127,1.2,Petrol,yes,1991,969Ì,full
+Renault,6200,sedan,246,1.4,Petrol,yes,2005,Megane,front
+Fiat,4300,hatch,158,1.2,Petrol,yes,2005,Panda,front
+VAZ,5000,crossover,18,1.6,Gas,yes,1989,2121,full
+SsangYong,17500,crossover,91,2,Diesel,yes,2012,Kyron,full
+Renault,6300,vagon,125,2,Petrol,yes,2003,Laguna,front
+Geely,4000,sedan,95,1.6,Petrol,yes,2008,MK,front
+Volvo,2900,vagon,185,19,Diesel,yes,2001,V40,front
+Renault,10100,vagon,190,2,Diesel,yes,2012,Trafic ãðóç.,front
+Mitsubishi,13300,crossover,110,2.4,Gas,yes,2008,Outlander XL,full
+Lexus,23999,crossover,270,4.7,Gas,yes,2005,LX 470,full
+Mercedes-Benz,5000,sedan,382,2,Petrol,yes,1994,E-Class,rear
+Opel,17500,sedan,147,2,Diesel,yes,2009,Insignia,front
+Mercedes-Benz,1650,sedan,257,1.8,Gas,no,1995,CL 180,rear
+Renault,5000,vagon,150,NA,Other,yes,2006,Kangoo ïàññ.,front
+Renault,12100,crossover,138,2.5,Gas,yes,2008,Koleos,full
+Hyundai,9100,crossover,170,2,Petrol,yes,2007,Tucson,full
+BMW,2299,sedan,200,1.8,Petrol,no,1999,318,front
+Honda,5100,sedan,220,1.6,Petrol,yes,1999,Accord,front
+Chevrolet,5500,hatch,141,1.6,Petrol,yes,2005,Lacetti,front
+Daewoo,4600,sedan,116,1.5,Gas,yes,2010,Lanos,front
+Volkswagen,12650,hatch,11,1,Petrol,yes,2014,Up,front
+Lexus,43000,sedan,7,2.5,Petrol,yes,2014,GS 250,rear
+Renault,6750,vagon,1,1.5,Diesel,yes,2004,Scenic,front
+Geely,3800,sedan,116,1.6,Petrol,yes,2008,MK,front
+Chevrolet,4999,hatch,130,1.5,Petrol,yes,2007,Aveo,front
+Skoda,11900,vagon,102,1.6,Diesel,yes,2011,Octavia A5,front
+Daewoo,4400,sedan,87,1.6,Petrol,yes,2008,Lanos,front
+Ford,1200,sedan,3,2,Petrol,yes,1986,Sierra,rear
+Audi,5000,sedan,370,2.3,Petrol,yes,1991,100,front
+Mercedes-Benz,8300,van,230,2.2,Diesel,yes,2004,Vito ïàññ.,rear
+Mercedes-Benz,7900,van,427,2.9,Diesel,yes,1999,Sprinter 212 ïàññ.,rear
+Volkswagen,1500,vagon,200,1.8,Gas,yes,1996,Passat B4,front
+Toyota,16999,crossover,157,2.7,Gas,yes,2007,Land Cruiser Prado,full
+Mercedes-Benz,2300,sedan,300,3,Diesel,yes,1999,E-Class,rear
+Nissan,7200,sedan,116,1.6,Gas,yes,2010,Almera,front
+Volkswagen,11500,other,51,1.6,Petrol,yes,2013,Polo,
+Nissan,10450,van,106,2,Diesel,yes,2013,Primastar ãðóç.,front
+Daihatsu,4400,van,190,1.5,Petrol,yes,1998,Gran Move,front
+VAZ,2350,sedan,11,1.5,Petrol,yes,2006,21099,front
+Renault,10450,van,106,2,Diesel,yes,2013,Trafic ãðóç.,front
+VAZ,750,sedan,20,1.5,Petrol,yes,1975,2103,rear
+Peugeot,8500,sedan,50,1.2,Petrol,yes,2013,301,front
+Nissan,20000,hatch,43,1.6,Petrol,yes,2013,TIIDA,front
+Ford,1200,vagon,242,2.9,Petrol,yes,1976,Granada,rear
+VAZ,907.725,sedan,1,NA,Other,yes,1986,2106,rear
+Mitsubishi,12900,sedan,40,2,Petrol,yes,2013,Lancer Evolution,full
+Infiniti,34600,crossover,31,2.5,Petrol,yes,2014,QX50,full
+Skoda,9899,vagon,174,1.6,Diesel,no,2012,Superb,front
+BMW,44800,sedan,63,4.4,Petrol,yes,2012,750,rear
+Opel,10450,van,98,2,Diesel,yes,2013,Vivaro ãðóç.,front
+Fiat,4500,van,190,1.9,Diesel,yes,2001,Doblo ïàññ.,front
+VAZ,2750,sedan,130,1.5,Gas,yes,2007,21099,front
+ZAZ,2100,sedan,68,1.2,Petrol,yes,2006,1103 Ñëàâóòà,front
+Mercedes-Benz,2499,hatch,201,1.7,Diesel,no,2001,A 170,front
+Citroen,12700,other,86,1.6,Petrol,yes,2012,Grand C4 Picasso,front
+Volkswagen,9900,other,178,2.5,Diesel,yes,2007,T5 (Transporter) ïàññ.,front
+Chevrolet,5600,hatch,159,1.6,Petrol,yes,2008,Lacetti,front
+Toyota,21900,sedan,88,2.5,Petrol,yes,2012,Camry,front
+Volkswagen,7900,other,168,1.9,Diesel,yes,2006,T5 (Transporter) ïàññ.,front
+Hyundai,5200,other,250,2.5,Diesel,yes,2005,H1 ïàññ.,rear
+Chevrolet,3250,sedan,200,1.6,Petrol,yes,2007,Aveo,front
+Skoda,6100,vagon,84,1.2,Petrol,yes,2007,Fabia,front
+Volkswagen,9300,van,176,1.9,Diesel,yes,2005,T5 (Transporter) ïàññ.,front
+Mercedes-Benz,8900,hatch,155,1.5,Petrol,yes,2005,A 150,front
+UAZ,850,van,255,NA,Other,yes,1981,3962,
+Jeep,13990,crossover,210,3,Diesel,yes,2006,Grand Cherokee,full
+Mercedes-Benz,5000,vagon,248,2,Gas,yes,1996,E-Class,rear
+Volkswagen,18000,crossover,155,2,Diesel,yes,2011,Tiguan,full
+Toyota,14474,crossover,115,2,Petrol,yes,2007,Rav 4,full
+Hyundai,14500,crossover,140,2,Gas,yes,2011,Tucson,front
+Volkswagen,2200,vagon,150,1.6,Petrol,yes,1986,Passat B2,front
+Mercedes-Benz,18500,crossover,180,3.5,Petrol,yes,2008,ML 350,full
+Lexus,16999,sedan,150,3.5,Gas,yes,2008,ES 350,front
+Audi,22500,other,71,3.6,Petrol,yes,2007,Q7,full
